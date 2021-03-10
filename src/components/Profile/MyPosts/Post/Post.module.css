@@ -1,0 +1,17 @@
+.item {
+  color: blue;
+}
+
+.item span {
+  color: green;
+}
+
+.item img {
+  width: 50px;
+  height: 50px;
+  border-radius: 30px;
+}
+
+.item .likesAmount {
+  color: aquamarine;
+}

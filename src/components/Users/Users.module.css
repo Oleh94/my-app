@@ -1,0 +1,14 @@
+.img {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.h1 {
+    color: darkslategrey;
+    font-size: 30px;
+}
+
+.selectedPage {
+    font-weight: bold;
+}

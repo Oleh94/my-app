@@ -1,0 +1,36 @@
+.nav {
+    grid-area: n;
+    background-color: darkolivegreen;
+    padding: 20px;
+}
+
+.nav .item a{
+    color: white;
+    text-decoration: none;
+}
+
+.nav .item a.activeLink {
+    color: goldenrod;
+}
+
+.friendsNavbar h1 {
+    text-align: center;
+}
+
+.friendsNavbarItems {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.friendsNavbarItems img {
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}
+.friendsNavbarItemsText {
+    text-align: center;
+}
+
+.friendsNavbarItemsImg p {
+    text-align: center;
+}
